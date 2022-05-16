@@ -11,3 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/jailcomfranssa/jailcomfranssa/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
