@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center" >
+<div style="display:flex;" align="center" >
   <a href="https://github.com/jailcomfranssa">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailcomfranssa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
