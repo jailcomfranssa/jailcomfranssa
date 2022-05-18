@@ -7,12 +7,12 @@
 
 <br>
 
-<div style="display: inline_block" align="center" >
+<div align="center" >
   <a href="https://github.com/jailcomfranssa">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailcomfranssa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailcomfranssa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailcomfranssa&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  </div>
   
   
