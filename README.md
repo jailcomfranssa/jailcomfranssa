@@ -12,11 +12,18 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailcomfranssa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailcomfranssa&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailcomfranssa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  </div>
   
   
   ##
+  
+  
+  <div  align="center">
+    <a href="https://github.com/jailcomfranssa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jailcomfranssa&show_icons=true&theme=dark&repo=github-readme-stats" />
+    </a>
+  </div>
 
 
   <div style="display: inline_block" align="center"><br>
